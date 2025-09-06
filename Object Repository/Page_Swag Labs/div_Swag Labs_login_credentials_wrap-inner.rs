@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Swag Labs_login_credentials_wrap-inner</name>
+   <tag></tag>
+   <elementGuidId>b065024a-3add-4be8-bc84-0f566794740d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login_credentials_wrap-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;login-credentials-container&quot;] div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d17b31d5-dc4f-4142-9977-e9d46f1eee3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_credentials_wrap-inner</value>
+      <webElementGuid>97936cff-8109-4d88-87ce-74b1b38bb8c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_userPassword for all users:secret_sauce</value>
+      <webElementGuid>39a1d013-1a54-405f-9bde-121d09a7874c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;login_container&quot;]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_credentials_wrap&quot;]/div[@class=&quot;login_credentials_wrap-inner&quot;]</value>
+      <webElementGuid>4db1055f-4666-44e4-8227-92305578d862</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div</value>
+      <webElementGuid>303eda8f-3236-42c0-bef0-67d7d3a3e35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::div[9]</value>
+      <webElementGuid>690f6a70-2dc2-4274-8078-dacd2db7b6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>f857b85f-45bb-448f-856b-a72f0f920069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_userPassword for all users:secret_sauce' or . = 'Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_userPassword for all users:secret_sauce')]</value>
+      <webElementGuid>aad19ffe-a4df-4032-a8db-90d16bbd5126</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

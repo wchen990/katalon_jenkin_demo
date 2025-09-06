@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buying a backpack</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ef9c985-9d1c-444c-8ad4-c05e1abec433</testCaseGuid>
+</TestCaseEntity>
